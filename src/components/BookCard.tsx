@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const BookCard = ({ book }: { book: Book }) => {
   return (
-    <div className="max-w-80 w-80 bg-white shadow-md rounded-md overflow-hidden h-52 m-4 ">
+    <div className="max-w-80 w-80 bg-white shadow-md rounded-md overflow-hidden  h-52 m-4 ">
       {" "}
       {/* Increased height of the whole card */}
       <div className="flex h-full">
