@@ -10,7 +10,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="space-x-4">
-          <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
+          <button className="bg-indigo-700 hover:indigo-800 text-white font-bold py-2 px-4 rounded">
             Sign in
           </button>
           <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
